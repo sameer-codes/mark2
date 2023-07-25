@@ -13,7 +13,7 @@ var highscore = {
   }
 }
 
-// global variable score
+// global variable to calculate scores
 var score = 0;
 
 //array of qbject
